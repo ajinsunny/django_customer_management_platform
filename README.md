@@ -1,1 +1,1 @@
-# django_customer_management_platform
+# Django CRM
